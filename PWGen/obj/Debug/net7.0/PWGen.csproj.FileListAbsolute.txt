@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\PWGen\PWGen\bin\Debug\net7.0\PWGen.exe
+C:\Users\Administrator\source\repos\PWGen\PWGen\bin\Debug\net7.0\PWGen.deps.json
+C:\Users\Administrator\source\repos\PWGen\PWGen\bin\Debug\net7.0\PWGen.runtimeconfig.json
+C:\Users\Administrator\source\repos\PWGen\PWGen\bin\Debug\net7.0\PWGen.dll
+C:\Users\Administrator\source\repos\PWGen\PWGen\bin\Debug\net7.0\PWGen.pdb
+C:\Users\Administrator\source\repos\PWGen\PWGen\obj\Debug\net7.0\PWGen.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PWGen\PWGen\obj\Debug\net7.0\PWGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PWGen\PWGen\obj\Debug\net7.0\PWGen.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PWGen\PWGen\obj\Debug\net7.0\PWGen.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PWGen\PWGen\obj\Debug\net7.0\PWGen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PWGen\PWGen\obj\Debug\net7.0\PWGen.dll
+C:\Users\Administrator\source\repos\PWGen\PWGen\obj\Debug\net7.0\refint\PWGen.dll
+C:\Users\Administrator\source\repos\PWGen\PWGen\obj\Debug\net7.0\PWGen.pdb
+C:\Users\Administrator\source\repos\PWGen\PWGen\obj\Debug\net7.0\PWGen.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\PWGen\PWGen\obj\Debug\net7.0\ref\PWGen.dll
